@@ -1,0 +1,16 @@
+total 72
+drwxrwxr-x 2 paulo paulo  4096 Elb  6 21:32 .
+drwxrwxr-x 4 paulo paulo  4096 Elb  6 21:31 ..
+-rwxrwxr-x 1 paulo paulo    32 Elb  6 13:23 0-hello_world
+-rwxrw-r-- 1 paulo paulo    28 Elb  6 14:14 1-confused_smiley
+-rw------- 1 paulo paulo 20480 Elb  6 13:49 .1-confused_smiley.swp
+-rwxrw-r-- 1 paulo paulo    28 Elb  6 17:51 2-hellofile
+-rwxrw-r-- 1 paulo paulo    39 Elb  6 17:56 3-twofiles
+-rwxrw-r-- 1 paulo paulo    35 Elb  6 18:01 4-lastlines
+-rwxrw-r-- 1 paulo paulo    35 Elb  6 20:44 5-firstlines
+-rwxrw-r-- 1 paulo paulo    40 Elb  6 21:02 6-third_line
+-rwxrw-r-- 1 paulo paulo    86 Elb  6 21:24 7-file
+-rwxrw-r-- 1 paulo paulo    36 Elb  6 21:28 8-cwd_state
+-rw-rw-r-- 1 paulo paulo    12 Elb  6 21:24 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 paulo paulo     0 Elb  6 21:32 ls_cwd_content
+-rw-rw-r-- 1 paulo paulo    74 Elb  6 13:23 README.md
